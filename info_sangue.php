@@ -7,10 +7,10 @@
     <title>Avaliação do sangue</title>
     <style>
         .positivo {
-            background: yellowgreen; color: white; width: 250px; height: 25px; text-align: center; line-height: 25px; font-family: 'Trebuchet MS'; font-weight: bolder; border-radius: 5px; font-size: 13px;
+            background: yellowgreen; color: white; width: 250px; height: 25px; text-align: center; line-height: 25px; font-family: 'Trebuchet MS';
         }
         .perigo {
-            background: black; color: white; width: 300px; height: 25px; text-align: center; line-height: 25px; font-family: 'Trebuchet MS'; font-weight: bolder; border-radius: 5px; font-size: 13px;
+            background: black; color: white; width: 300px; height: 25px; text-align: center; line-height: 25px; font-family: 'Trebuchet MS';
         }
         </style>
 </head>
